@@ -1,16 +1,13 @@
 ### Hi there 👋
+### I'm Aneesh 🚀
 
-<!--
-**aneeshgupta42/aneeshgupta42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: document recognition and information extraction
+- 🌱 I’m currently learning: web dev with Svelte
+- 👯 I’m looking to collaborate on: an image processing+analysis web app
+- 🤔 I’m looking for help with: getting a job (Psst: [hire me](https://aneeshgupta.me/resume.pdf)) 
+- 💬 Ask me about: Anything, from reading recommendations to computer science.
+- 📫 How to reach me: [aneesh.gupta@duke.edu](mailto:aneesh.gupta@duke.edu)
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: My favorite ice-cream flavor is mango 🥭
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More at [aneesh.wtf](https://aneeshgupta.me/).
