@@ -10,4 +10,4 @@
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: My favorite ice-cream flavor is mango 🥭
 
-### More at [aneesh.wtf](https://aneeshgupta.me/).
+### More at [aneeshgupta.me](https://aneeshgupta.me/).
