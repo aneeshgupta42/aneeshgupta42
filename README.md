@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm Aneesh 🚀
+### I'm Aneesh!
 
-- 🔭 I’m currently working on: Perception/Autonomy for Robots at Nuro.
+- 🔭 I’m currently working on: Perception/Autonomy for self-driving at [Nuro](https://www.nuro.ai/).
 - 🌱 I’m currently learning: improving my writing skills. 
 - 👯 I’m looking to collaborate on: web 3d graphics projects.
 - 💬 Ask me about: Anything, from reading recommendations, to CS, to my hometown, Delhi.
